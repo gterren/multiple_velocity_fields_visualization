@@ -1,6 +1,6 @@
 # Multiple Wind Velocity Fields Visualization
 
-This reposity includes the files developed in article https://doi.org/10.1016/j.apenergy.2021.116656 and https://arxiv.org/pdf/2103.02556.pdf. This article introduces an algorithm for the visualization of the wind velocity in which cloud are flowing. This algorithms uses infrared sky images. See article https://doi.org/10.1016/j.dib.2021.106914 for more information about the sky imager.
+This reposity includes the files developed in article https://doi.org/10.1016/j.apenergy.2021.116656 and https://arxiv.org/pdf/2103.02556.pdf. These articles introduced an algorithm for the visualization of the wind velocity in which cloud are flowing. This algorithms uses infrared sky images. See article https://doi.org/10.1016/j.dib.2021.106914 for more information about the sky imager.
 
 ## Velocity Vectors Processing
 
